@@ -1,7 +1,7 @@
 # ART 387: Impossible Architecture - (un)Realized Structure 3
 
 * Point value: 100 pts.
-* Assigned: 8 April 2020, 11:59 PM.
+* Due: 8 April 2020, 11:59 PM.
 
 ## Ce n'est pas a box
 
